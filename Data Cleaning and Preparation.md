@@ -1,4 +1,4 @@
-# README: Data Cleaning & Preparation Report
+# README: Data Cleaning and Preparation 
 
 ## Project Overview
 This repository documents the data preparation pipeline for an **Electronics Sales Performance** dataset. The original data was delivered as a flat CSV file containing mixed currencies, formatting inconsistencies, and missing data points. 
