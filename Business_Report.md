@@ -1,5 +1,5 @@
 # README: Business Performance Insights Report
-ℹ️ **Looking for the technical process?** [Read the Data Cleaning & Preparation Report here](DATA-PREPARATION.md)
+ℹ️ **Looking for the technical process?** [Read the Data Cleaning & Preparation Report here](Data Cleaning and Preparation.md)
 
 ---
 
