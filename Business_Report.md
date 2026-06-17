@@ -1,4 +1,7 @@
 # README: Business Performance Insights Report
+ℹ️ **Looking for the technical process?** [Read the Data Cleaning & Preparation Report here](DATA-PREPARATION.md)
+
+---
 
 ## Executive Summary
 Based on the **Electronics Sales Performance Dashboard**, total sales generated **$125.42K** in revenue across 100 orders, yielding a total profit of **$16.34K**. The overall business is operating at a **12.79% profit margin**, with an Average Order Value (AOV) of **$1.25K**. 
