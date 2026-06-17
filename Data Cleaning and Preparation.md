@@ -1,5 +1,7 @@
 # README: Data Cleaning and Preparation 
+⬅️ [Back to Business Performance Insights Report](Business_Report.md)
 
+---
 
 ## Project Overview
 This repository documents the data preparation pipeline for an **Electronics Sales Performance** dataset. The original data was delivered as a flat CSV file containing mixed currencies, formatting inconsistencies, and missing data points. 
